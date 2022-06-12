@@ -1,0 +1,8 @@
+.history
+__pycache__
+dataset/divide
+dataset/img
+dataset/landcover
+dataset/npy
+dataset/park
+dataset/SLICResult
