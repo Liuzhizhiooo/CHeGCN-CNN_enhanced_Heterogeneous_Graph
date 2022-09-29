@@ -37,6 +37,7 @@ python main.py train --train=True --dataset=datasetCHeGCN --model=CHeGCN --isGCN
 
 
 `test models`
+
 You may need to select the best model based on the validation OA curve and set the `testModel`, the `epochs_90.pth` is just an example.
 ```sh
 # HoGCN
