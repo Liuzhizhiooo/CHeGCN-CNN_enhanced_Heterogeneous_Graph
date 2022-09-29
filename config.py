@@ -7,7 +7,7 @@ class DefaultConfig(object):
     model = 'CHeGCN' # model Name
     backbone = "resnet18"  # pretrained backbone
     isGCNLabel = True  # if true CHeGCN or HeGCN, else CHoGCN or HoGCN
-    GCNHiddenDim = [32, 32, 16]  # the hidden units of GCN
+    GCNHiddenDim = [32, 32, 32]  # the hidden units of GCN
     edgeConnectMode = "Geo"  # connection mode, either "Geo" or "Full" (non-local models)
     tag = model # output tag
     
