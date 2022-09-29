@@ -37,7 +37,7 @@ python main.py train --train=True --dataset=datasetCHeGCN --model=CHeGCN --isGCN
 
 
 `test models`
-
+You may need to select the best model based on the validation OA curve and set the `testModel`, the `epochs_90.pth` is just an example.
 ```sh
 # HoGCN
 python main.py test --dataset=datasetHeGCN --model=HoGCN --tag=HoGCN-1 --testModel=epochs_90.pth
@@ -70,9 +70,9 @@ python main.py test --dataset=datasetCHeGCN --model=CHeGCN --isGCNLabel=True --t
 
 ## Dataset
 
-The dataset will be made public after this paper is accepted.
+The Beijing dataset and Shenzhen dataset will be made public after this paper is accepted.
 
-The detail information about this dataset can be found in [CHeGCN]().
+The details about this dataset can be found in our [article](placehodler).
 
 `./dataset`
 
