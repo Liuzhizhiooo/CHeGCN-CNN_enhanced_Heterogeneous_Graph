@@ -57,7 +57,7 @@ python main.py test --dataset=datasetCHeGCN --model=CHeGCN --isGCNLabel=True --t
 
 ## Best Model
 
-We provide the best model in `./outputs/CHeGCN/checkpoints/epochs_70.pth`
+We provide the best model trained from the Beijing dataset in `./outputs/CHeGCN/checkpoints/epochs_70.pth`
 
 The visualization results of the 3-layer CHeGCN in our paper can be reproduced by the following command:
 
@@ -73,7 +73,7 @@ python main.py test --dataset=datasetCHeGCN --model=CHeGCN --isGCNLabel=True --t
 
 The Beijing dataset and Shenzhen dataset will be made public after this paper is accepted.
 
-The details about this dataset can be found in our [article](placehodler).
+The details about this dataset can be found in our [article](https://www.mdpi.com/2072-4292/14/19/5027).
 
 `./dataset`
 
