@@ -115,11 +115,25 @@ This class-wise SLIC method makes use of image texture to achieve clustering and
 
 
 ## Citation
-
+If this code helps in your work, please consider citing us.
 ```
-
+Liu, Z.-Q.; Tang, P.; Zhang, W.; Zhang, Z. CNN-Enhanced Heterogeneous Graph Convolutional Network: Inferring Land Use from Land Cover with a Case Study of Park Segmentation. Remote Sens. 2022, 14, 5027. https://doi.org/10.3390/rs14195027
 ```
-
+or
+```
+@Article{rs14195027,
+AUTHOR = {Liu, Zhi-Qiang and Tang, Ping and Zhang, Weixiong and Zhang, Zheng},
+TITLE = {CNN-Enhanced Heterogeneous Graph Convolutional Network: Inferring Land Use from Land Cover with a Case Study of Park Segmentation},
+JOURNAL = {Remote Sensing},
+VOLUME = {14},
+YEAR = {2022},
+NUMBER = {19},
+ARTICLE-NUMBER = {5027},
+URL = {https://www.mdpi.com/2072-4292/14/19/5027},
+ISSN = {2072-4292},
+DOI = {10.3390/rs14195027}
+}
+```
 
 
 ## License
