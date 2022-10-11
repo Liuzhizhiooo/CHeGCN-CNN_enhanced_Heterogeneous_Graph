@@ -1,6 +1,6 @@
 # CHeGCN
 
-Implementation for: [CHeGCN (**C**NN-enhanced **He**tergeneous **G**raph **C**onvolutional **N**etworks)]()
+Implementation for: [CHeGCN (**C**NN-enhanced **He**tergeneous **G**raph **C**onvolutional **N**etworks)](https://www.mdpi.com/2072-4292/14/19/5027)
 
 ![model](ReadMe.assets/model.png)
 
