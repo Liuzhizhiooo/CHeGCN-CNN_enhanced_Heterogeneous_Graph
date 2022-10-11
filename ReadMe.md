@@ -70,8 +70,9 @@ python main.py test --dataset=datasetCHeGCN --model=CHeGCN --isGCNLabel=True --t
 
 
 ## Datasets
-
-The Beijing dataset and Shenzhen dataset will be made public after this paper is accepted.
+The Beijing dataset and Shenzhen dataset can be downloaded from Aliyun drive or Google drive.
++ Link: [Aliyun drive](https://www.aliyundrive.com/s/Trt4sKtMAtE)
++ Link: [Google drive](https://drive.google.com/drive/folders/1M1xOXfXpg3pEIihc-oFMr9SdiuFbkOpk?usp=sharing)
 
 The details about these datasets can be found in our [article](https://www.mdpi.com/2072-4292/14/19/5027).
 
@@ -100,8 +101,8 @@ The details about these datasets can be found in our [article](https://www.mdpi.
 │  ├─landcover  # node-level land cover map
 │  └─park  # node-level park label
 │
-├─SLICResult  # class-wise segmentation of images by SLIC
-│  └─segments
+└─SLICResult  # class-wise segmentation of images by SLIC
+   └─segments
 ```
 
 
