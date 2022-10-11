@@ -69,11 +69,11 @@ python main.py test --dataset=datasetCHeGCN --model=CHeGCN --isGCNLabel=True --t
 
 
 
-## Dataset
+## Datasets
 
 The Beijing dataset and Shenzhen dataset will be made public after this paper is accepted.
 
-The details about this dataset can be found in our [article](https://www.mdpi.com/2072-4292/14/19/5027).
+The details about these datasets can be found in our [article](https://www.mdpi.com/2072-4292/14/19/5027).
 
 `./dataset`
 
