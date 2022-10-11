@@ -70,8 +70,8 @@ python main.py test --dataset=datasetCHeGCN --model=CHeGCN --isGCNLabel=True --t
 
 
 ## Datasets
-The Beijing dataset and Shenzhen dataset can be downloaded from Aliyun drive or Google drive.
-+ Link: [Aliyun drive](https://www.aliyundrive.com/s/Trt4sKtMAtE)
+The Beijing dataset and Shenzhen dataset can be downloaded from Baidu drive or Google drive.
++ Link: [Baidu drive](https://pan.baidu.com/s/1Ypshqvn8qs0zP1o5v0gfWw) (extraction code: runc)
 + Link: [Google drive](https://drive.google.com/drive/folders/1M1xOXfXpg3pEIihc-oFMr9SdiuFbkOpk?usp=sharing)
 
 The details about these datasets can be found in our [article](https://www.mdpi.com/2072-4292/14/19/5027).
